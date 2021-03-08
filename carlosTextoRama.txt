@@ -1,3 +1,5 @@
 Este documento es creado en una rama
 para segungo commit
 para tercer commit
+Rama con conflictos
+
